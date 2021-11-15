@@ -1,0 +1,4 @@
+rootProject.name = "Chapter5"
+include ':app'
+include ':app:quiz5_4_4'
+include ':app:quiz5_4_5'
